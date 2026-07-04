@@ -1,0 +1,33 @@
+# Hi, I'm John 👋
+
+Just an IT guy trying to make jobs, and lives, easier.
+
+I build **Simple X Tools**: small, standalone apps that do one job well, with a
+clean interface and no clutter. Most come out of my day job in infrastructure
+and networking, where I kept wanting a lightweight tool that just worked.
+
+**Privacy first, always.** These tools don't collect, share, or sell your data.
+No telemetry, no tracking, no accounts. Passwords and secrets are held in memory
+only and never written to disk.
+
+### The suite
+
+| Tool | What it does |
+|---|---|
+| [Simple SSH Tool](https://github.com/JDE-Projects/Simple-SSH-Tool) | Run saved or one-off commands on your machines over SSH |
+| [Simple SFTP Client](https://github.com/JDE-Projects/Simple-SFTP-Client) | A clean, no-fuss SFTP client |
+| [Simple SFTP Server](https://github.com/JDE-Projects/Simple-SFTP-Server) | Quick-launch SFTP hosting |
+| [Simple SFTP Audit Tool](https://github.com/JDE-Projects/Simple-SFTP-Audit-Tool) | Grade an SSH/SFTP server with ssh-audit |
+| [Simple RCON Tool](https://github.com/JDE-Projects/Simple-RCON-Tool) | Manage game servers over RCON |
+| [Simple Network Dashboard](https://github.com/JDE-Projects/Simple-Network-Dashboard) | Web UI to monitor and manage network devices |
+| [Simple UNA Device Manager](https://github.com/JDE-Projects/Simple-UNA-Device-Manager) | Find and remove devices in a self-hosted UniFi Network app |
+| [Simple UNA Log Viewer](https://github.com/JDE-Projects/Simple-UNA-Log-Viewer) | View, filter, and export UniFi logs |
+| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
+| [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | Keep a rolling balance of your checking account |
+
+Most are standalone Windows desktop apps, free to use, with no Python or setup
+required. Grab the installer or portable zip from each project's Releases page.
+(Simple Network Dashboard is a self-hosted Linux web UI.)
+
+If one of these saves you some time and you'd like to buy me a coffee, I'm on
+[Ko-fi](https://ko-fi.com/jdeprojects). ☕
