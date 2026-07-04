@@ -42,4 +42,4 @@ breakfast), I'm on [Ko-fi](https://ko-fi.com/jdeprojects). ☕
 ---
 
 > *"It's the job that's never started as takes longest to finish."*
-> — Samwise Gamgee, *The Fellowship of the Ring*
+> - Samwise Gamgee, *The Fellowship of the Ring*
