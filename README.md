@@ -1,4 +1,4 @@
-# Hi, I'm John 👋 
+# Hi, I'm John 👋
 
 Just an IT guy trying to make jobs, and lives, easier.
 
@@ -10,7 +10,7 @@ and networking, where I kept wanting a lightweight tool that just worked.
 No telemetry, no tracking, no accounts. Passwords and secrets are held in memory
 only and never written to disk.
 
-### The suite
+### Infrastructure & networking tools
 
 | Tool | What it does |
 |---|---|
@@ -18,16 +18,28 @@ only and never written to disk.
 | [Simple SFTP Client](https://github.com/JDE-Projects/Simple-SFTP-Client) | A clean, no-fuss SFTP client |
 | [Simple SFTP Server](https://github.com/JDE-Projects/Simple-SFTP-Server) | Quick-launch SFTP hosting |
 | [Simple SFTP Audit Tool](https://github.com/JDE-Projects/Simple-SFTP-Audit-Tool) | Grade an SSH/SFTP server with ssh-audit |
-| [Simple RCON Tool](https://github.com/JDE-Projects/Simple-RCON-Tool) | Manage game servers over RCON |
 | [Simple Network Dashboard](https://github.com/JDE-Projects/Simple-Network-Dashboard) | Web UI to monitor and manage network devices |
 | [Simple UNA Device Manager](https://github.com/JDE-Projects/Simple-UNA-Device-Manager) | Find and remove devices in a self-hosted UniFi Network app |
 | [Simple UNA Log Viewer](https://github.com/JDE-Projects/Simple-UNA-Log-Viewer) | View, filter, and export UniFi logs |
-| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
-| [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | Keep a rolling balance of your checking account |
+| [Simple RCON Tool](https://github.com/JDE-Projects/Simple-RCON-Tool) | Manage game servers over RCON |
 
 Most are standalone Windows desktop apps, free to use, with no Python or setup
 required. Grab the installer or portable zip from each project's Releases page.
 (Simple Network Dashboard is a self-hosted Linux web UI.)
 
-If one of these saves you some time and you'd like to buy me a coffee, I'm on
-[Ko-fi](https://ko-fi.com/jdeprojects). ☕
+### Beyond the infrastructure tools
+
+Infrastructure is where I spend most of my time, but not all of it. I also build
+other things, like a [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager)
+for lightweight project tracking and a [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer)
+for keeping a rolling checking-account balance, with more always in the works.
+You can find everything I've released on my
+[repositories page](https://github.com/JDE-Projects?tab=repositories).
+
+If one of these saves you some time and you'd like to buy me a coffee (or second
+breakfast), I'm on [Ko-fi](https://ko-fi.com/jdeprojects). ☕
+
+---
+
+> *"It's the job that's never started as takes longest to finish."*
+> — Samwise Gamgee, *The Fellowship of the Ring*
