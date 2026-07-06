@@ -2,9 +2,9 @@
 
 Just an IT guy trying to make jobs, and lives, easier.
 
-I build **Simple X Tools**: small, standalone apps that do one job well, with a
-clean interface and no clutter. Most come out of my day job in infrastructure
-and networking, where I kept wanting a lightweight tool that just worked.
+I build **simple, standalone apps** that do one job well, with a clean interface
+and no clutter. Most come out of my day job in infrastructure and networking,
+where I kept wanting a lightweight tool that just worked.
 
 **Privacy first, always.** These tools don't collect, share, or sell your data.
 No telemetry, no tracking, no accounts. Passwords and secrets are held in memory
@@ -23,18 +23,17 @@ only and never written to disk.
 | [Simple UNA Log Viewer](https://github.com/JDE-Projects/Simple-UNA-Log-Viewer) | View, filter, and export UniFi logs |
 | [Simple RCON Tool](https://github.com/JDE-Projects/Simple-RCON-Tool) | Manage game servers over RCON |
 
+### Everyday tools
+
+| Tool | What it does |
+|---|---|
+| [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | Keep an accurate rolling balance of your checking account |
+| [Simple Firearm Logbook](https://github.com/JDE-Projects/Simple-Firearm-Logbook) | Offline logbook for your firearms: serials, mods, values, photos, and dispositions |
+| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
+
 Most are standalone Windows desktop apps, free to use, with no Python or setup
 required. Grab the installer or portable zip from each project's Releases page.
 (Simple Network Dashboard is a self-hosted Linux web UI.)
-
-### Beyond the infrastructure tools
-
-Infrastructure is where I spend most of my time, but not all of it. I also build
-other things, like a [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager)
-for lightweight project tracking and a [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer)
-for keeping a rolling checking-account balance, with more always in the works.
-You can find everything I've released on my
-[repositories page](https://github.com/JDE-Projects?tab=repositories).
 
 If one of these saves you some time and you'd like to buy me a coffee (or second
 breakfast), I'm on [Ko-fi](https://ko-fi.com/jdeprojects). ☕
