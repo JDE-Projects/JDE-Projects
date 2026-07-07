@@ -31,7 +31,7 @@ only and never written to disk.
 | [Simple Firearm Logbook](https://github.com/JDE-Projects/Simple-Firearm-Logbook) | Offline logbook for your firearms: serials, mods, values, photos, and dispositions |
 | [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
 
-Most are standalone Windows desktop apps, free to use, with no Python or setup
+Most are standalone Windows desktop apps, free to use, with no Python or dependency setup
 required. Grab the installer or portable zip from each project's Releases page.
 (Simple Network Dashboard is a self-hosted Linux web UI.)
 
