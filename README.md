@@ -27,7 +27,7 @@ only and never written to disk.
 
 | Tool | What it does |
 |---|---|
-| [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | Keep an accurate rolling balance of your checking account |
+| [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | A simple 'checkbook register" style account balance tool with reconcile & export functions |
 | [Simple Firearm Logbook](https://github.com/JDE-Projects/Simple-Firearm-Logbook) | Offline logbook for your firearms: serials, mods, values, photos, and dispositions |
 | [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
 
