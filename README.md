@@ -1,7 +1,5 @@
 # Hi, I'm John 👋
 
-Just an IT guy trying to make jobs, and lives, easier.
-
 I build **simple, standalone apps** that do one job well, with a clean interface
 and no clutter. Most come out of my day job in infrastructure and networking,
 where I kept wanting a lightweight tool that just worked.
@@ -33,7 +31,6 @@ only and never written to disk.
 
 Most are standalone Windows desktop apps, free to use, with no Python or dependency setup
 required. Grab the installer or portable zip from each project's Releases page.
-(Simple Network Dashboard is a self-hosted Linux web UI.)
 
 If one of these saves you some time and you'd like to buy me a coffee (or second
 breakfast), I'm on [Ko-fi](https://ko-fi.com/jdeprojects). ☕
