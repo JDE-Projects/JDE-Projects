@@ -17,6 +17,7 @@ only and never written to disk.
 | [Simple SFTP Server](https://github.com/JDE-Projects/Simple-SFTP-Server) | Quick-launch SFTP hosting |
 | [Simple SFTP Audit Tool](https://github.com/JDE-Projects/Simple-SFTP-Audit-Tool) | Grade an SSH/SFTP server with ssh-audit |
 | [Simple Network Dashboard](https://github.com/JDE-Projects/Simple-Network-Dashboard) | Web UI to monitor and manage network devices |
+| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
 | [Simple UNA Device Manager](https://github.com/JDE-Projects/Simple-UNA-Device-Manager) | Find and remove devices in a self-hosted UniFi Network app |
 | [Simple UNA Log Viewer](https://github.com/JDE-Projects/Simple-UNA-Log-Viewer) | View, filter, and export UniFi logs |
 
@@ -26,7 +27,6 @@ only and never written to disk.
 |---|---|
 | [Simple Account Balancer](https://github.com/JDE-Projects/Simple-Account-Balancer) | A 'checkbook register' style account balance tool with reconcile & export functions |
 | [Simple Firearm Logbook](https://github.com/JDE-Projects/Simple-Firearm-Logbook) | A logbook for your firearms: serials, mods, values, photos, and dispositions |
-| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
 | [Simple RCON Tool](https://github.com/JDE-Projects/Simple-RCON-Tool) | Manage game servers over RCON |
 
 Most are standalone Windows desktop apps, free to use, with no Python or dependency setup
