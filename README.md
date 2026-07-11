@@ -6,7 +6,8 @@ where I kept wanting a lightweight tool that just worked.
 
 **Privacy first, always.** These tools don't collect, share, or sell your data.
 No telemetry, no tracking, no accounts. Passwords and secrets are held in memory
-only and never written to disk.
+only and never written to disk.  Everything about my apps remains offline, 
+apart from the update check function,
 
 ### Infrastructure & networking tools
 
