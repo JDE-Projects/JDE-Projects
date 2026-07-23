@@ -19,6 +19,7 @@ the small update check function that tells you if a new release is out on my Git
 | [Simple SFTP Audit Tool](https://github.com/JDE-Projects/Simple-SFTP-Audit-Tool) | Grade an SSH/SFTP server with ssh-audit |
 | [Simple Network Dashboard](https://github.com/JDE-Projects/Simple-Network-Dashboard) | Web UI to monitor and manage network devices |
 | [Simple Project Manager](https://github.com/JDE-Projects/Simple-Project-Manager) | Lightweight project tracking |
+| [Simple Project Manager](https://github.com/JDE-Projects/Simple-Disk-Tool) | A simple tool that tests, diagnoses, benchmarks, and manages your disks |
 | [Simple CVE Tracker](https://github.com/JDE-Projects/Simple-CVE-Tracker) | Lightweight tracking of CVEs relevant to your infrastructure |
 | [Simple UNA Device Manager](https://github.com/JDE-Projects/Simple-UNA-Device-Manager) | Find and remove devices in a self-hosted UniFi Network app |
 | [Simple UNA Log Viewer](https://github.com/JDE-Projects/Simple-UNA-Log-Viewer) | View, filter, and export UniFi logs |
